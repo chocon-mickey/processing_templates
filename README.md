@@ -1,6 +1,7 @@
 # processing_templates
 
 TODO: ここに自分の作成したprocessing codeの簡単な内容を紹介してください．
+二つのパックンをおにごっこ風に作りました
 
 ## Installation
 
@@ -31,11 +32,14 @@ githubでdaddygongon/processing_templatesをforkしてください．
 ## Usage
 
 TODO: ここに使い方を書いてください．
+勝手に動いてくれます
 
 ## Code review
 
 TODO: ここにcodeの概要と，どのような意図で作成したかを書いてください．
 どこの誰のコードを基にして書いたかの引用を忘れずに．
+おにごっこしているパックンを作ろうと思いました。
+野田麦君直々に教えてもらいました
 
 sampleをそれぞれのdirectoryに置いています．
 
